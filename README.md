@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Banking Mock
 
 Full demo with a **Spring Boot backend** and a **static frontend** proxied via Nginx.  
@@ -11,3 +12,6 @@ docker compose up --build
 ```
 
 > Minimal demo to showcase architecture & integration. Expand with Angular/React when needed.
+=======
+# digital-banking-mock
+>>>>>>> 53ffe65d496be76f92c266b74e285671c6b303a8
